@@ -11,7 +11,7 @@ import os, subprocess
 ### Please, take note that you can change number of threads
 
 #root folder for TXing texturess
-directory = r'M:\_transfers\venezia\content\_CONTENT\texturesets\plasters'
+directory = r'G:\PATHTOTEXTURES'
 
 # maketx location
 maketx_location = r"R:\\Program Files\\Isotropix\\Clarisse iFX 3.5 SP4\\Clarisse\\"
