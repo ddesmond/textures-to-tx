@@ -43,11 +43,6 @@ def convert_to_tx(folder_for_tx,full_path_tofile):
 	print(out)
 	return maketx_save_file
 
-def filechecker(pathtocheck):
-	check = os.path.isfile(pathtocheck)
-	return check
-
-
 
 #list all files
 def listfiles(input):
